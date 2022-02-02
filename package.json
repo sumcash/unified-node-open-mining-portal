@@ -52,7 +52,7 @@
         "compression": "*",
         "dot": "*",
         "newrelic": "1.25.4",
-        "colors": "*",
+        "colors": "1.4.0",
         "node-watch": "0.5.9",
         "request": "2.69.0",
         "node-poloniex": "git://github.com/sigwo/poloniex.js",
